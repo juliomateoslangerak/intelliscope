@@ -1,0 +1,15 @@
+# Config file to train a dataset
+path: C:\Users\Julio\PycharmProjects\intelliscope\datasets\Kyoto_cells
+train: images/training
+val: images/training
+
+# Classes
+names:
+  0: inter
+  1: pro
+  2: prometa
+  3: meta
+  4: earlyana
+  5: lateana
+  6: telo
+  7: apo
